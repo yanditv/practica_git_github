@@ -4,4 +4,7 @@ function hello() {
 function bye() {
     console.log("good bye!")
 }
+
 hello();
+
+bye();
